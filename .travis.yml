@@ -1,3 +1,6 @@
+arc:
+   - amd64
+   - ppc64le
 dist: xenial
 sudo: required
 
